@@ -1,3 +1,8 @@
+@font-face{
+    src: url(imgs/JandusRoad.otf);
+    font-family: Jandus
+}
 body{
+    font-family: "Jandus", sans-serif;
     background-color: beige;
 }
