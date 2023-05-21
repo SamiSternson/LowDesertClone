@@ -29,3 +29,6 @@ h4{
 .whitebg{
     background-color: white;
 }
+.barwidth{
+    border: width 50px;
+}
