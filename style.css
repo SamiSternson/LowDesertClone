@@ -23,13 +23,10 @@ font-size: 64;
 h4{
     font-size:48;
 }
-.thin{
+
+.bar{
     font-weight: 200;
-}
-.whitebg{
-    background-color: white;
-}
-.barwidth{
+    font-weight: 200;
     border-style: solid;
     border-width: 100px;
     border-color:white;
