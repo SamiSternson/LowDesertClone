@@ -31,7 +31,8 @@ h4{
 #scrollingbar{
     position: fixed;
     top:0px;
-    left:0px
+    left:0px;
+    width: 1200; 
 }
 #imgbox{
     top: 50px;
