@@ -33,9 +33,8 @@ h4{
 }
 #imgbox{
     top: 50px;
-    left: 400px;
     float: left;
-    border: 25px solid white;
+    border: 50px solid white;
 }
 #homebox{
     top: 50px;
@@ -43,27 +42,27 @@ h4{
     border: 25px solid white;
 }
 #menubox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
 #barbox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
 #hpbox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
 #ctrbox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
 #imagesbox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
