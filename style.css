@@ -3,7 +3,7 @@
     font-family: Jandus
 }
 body{
-    font-family: "Jandus", consolas;
+    font-family: 'Montserrat', sans-serif;
     background-color: beige;
     
 }
@@ -15,10 +15,13 @@ h2{
 }
 p{
     font-size: 32;
+    font-weight: 200;
 }
 h3{
 font-size: 64;
+font-weight: 200;
 }
 h4{
     font-size:48;
+    
 }
