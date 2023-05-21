@@ -29,7 +29,8 @@ h4{
     position: fixed;
     top:0px;
     left:0px;
-    width: 3000px; 
+    width: 3000px;
+    height: 0px; 
 }
 #imgbox{
     top: 50px;
