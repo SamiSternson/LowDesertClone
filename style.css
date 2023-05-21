@@ -45,11 +45,20 @@ h4{
     top: 50px;
     left: 850px;
 }
-#imgbox{
+#barbox{
     top: 50px;
-    left: 400px;
+    left: 900px;
 }
-#imgbox{
+#hpbox{
     top: 50px;
-    left: 400px;
+    left: 950px;
 }
+#ctrbox{
+    top: 50px;
+    left: 1000px;
+}
+#imagesbox{
+    top: 50px;
+    left: 1050px;
+}
+
