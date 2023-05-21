@@ -30,5 +30,6 @@ h4{
     background-color: white;
 }
 .barwidth{
+    border-style: solid;
     border-width: 50px;
 }
