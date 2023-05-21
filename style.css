@@ -42,25 +42,31 @@ h4{
 #homebox{
     top: 50px;
     left: 800px;
+    float: left;
 }
 #menubox{
     top: 50px;
     left: 850px;
+    float: left;
 }
 #barbox{
     top: 50px;
     left: 900px;
+    float: left;
 }
 #hpbox{
     top: 50px;
     left: 950px;
+    float: left;
 }
 #ctrbox{
     top: 50px;
     left: 1000px;
+    float: left;
 }
 #imagesbox{
     top: 50px;
     left: 1050px;
+    float: left;
 }
 
