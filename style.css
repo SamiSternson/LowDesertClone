@@ -37,6 +37,7 @@ h4{
 #imgbox{
     top: 50px;
     left: 400px;
+    float: left;
 }
 #homebox{
     top: 50px;
