@@ -1,7 +1,3 @@
-@font-face{
-    src: url(imgs/JandusRoad.otf);
-    font-family: Jandus
-}
 body{
     font-family: 'Montserrat', sans-serif;
     background-color: beige;
@@ -26,9 +22,10 @@ h4{
 
 .bar{
     font-weight: 200;
-    background-color: white;
+    
 }
 #scrollingbar{
+    background-color: white;
     position: fixed;
     top:0px;
     left:0px;
@@ -38,35 +35,36 @@ h4{
     top: 50px;
     left: 400px;
     float: left;
+    border: 50px solid white;
 }
 #homebox{
     top: 50px;
-    left: 800px;
     float: left;
+    border: 50px solid white;
 }
 #menubox{
     top: 50px;
-    left: 850px;
     float: left;
+    border: 50px solid white;
 }
 #barbox{
     top: 50px;
-    left: 900px;
     float: left;
+    border: 50px solid white;
 }
 #hpbox{
     top: 50px;
-    left: 950px;
     float: left;
+    border: 50px solid white;
 }
 #ctrbox{
     top: 50px;
-    left: 1000px;
     float: left;
+    border: 50px solid white;
 }
 #imagesbox{
     top: 50px;
-    left: 1050px;
     float: left;
+    border: 50px solid white;
 }
 
