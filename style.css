@@ -25,9 +25,10 @@ h4{
     background-color: white;
     
 }
-.graytext{
-    color:gray;
+a {
+color: darkgray;
 }
+
 #scrollingbar{
     background-color: white;
     position: fixed;
