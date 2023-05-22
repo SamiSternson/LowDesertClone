@@ -22,6 +22,7 @@ h4{
 
 .bar{
     font-weight: 200;
+    background-color: white;
     
 }
 #scrollingbar{
@@ -38,7 +39,7 @@ h4{
     border: 50px solid white;
 }
 #homebox{
-    top: 50px;
+    top: 100px;
     float: left;
     border: 25px solid white;
 }
