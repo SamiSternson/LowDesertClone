@@ -23,6 +23,8 @@ h4{
 .bar{
     font-weight: 200;
     background-color: white;
+    color:gray;
+
     
 }
 #scrollingbar{
@@ -40,39 +42,45 @@ h4{
 }
 #homebox{
     border: 25px solid white;
+    background-color: white;
     position: absolute;
     top:90px;
     left: 400px;
 }
 #menubox{
     border: 25px solid white;
+    background-color: white;
     position: absolute;
     top:90px;
-    left: 450px;
+    left: 500px;
     
 }
 #barbox{
     border: 25px solid white;
-    position: absolute;
-    top:90px;
-    left: 500px;
-}
-#hpbox{
-    border: 25px solid white;
-    position: absolute;
-    top:90px;
-    left: 550px;
-}
-#ctrbox{
-    border: 25px solid white;
+    background-color: white;
     position: absolute;
     top:90px;
     left: 600px;
 }
-#imagesbox{
+#hpbox{
     border: 25px solid white;
+    background-color: white;
     position: absolute;
     top:90px;
-    left: 650px;
+    left: 700px;
+}
+#ctrbox{
+    border: 25px solid white;
+    background-color: white;
+    position: absolute;
+    top:90px;
+    left: 800px;
+}
+#imagesbox{
+    border: 25px solid white;
+    background-color: white;
+    position: absolute;
+    top:90px;
+    left: 900px;
 }
 
