@@ -33,46 +33,46 @@ h4{
     width: 3000px;
 }
 #imgbox{
-    float: left;
     border: 50px solid white;
     position: absolute;
-    top:50px;
+    top:40px;
+    left:50
 }
 #homebox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 400px;
 }
 #menubox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 450px;
     
 }
 #barbox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 500px;
 }
 #hpbox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 550px;
 }
 #ctrbox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 600px;
 }
 #imagesbox{
-    float: left;
     border: 25px solid white;
     position: absolute;
-    top:50px;
+    top:90px;
+    left: 650px;
 }
 
